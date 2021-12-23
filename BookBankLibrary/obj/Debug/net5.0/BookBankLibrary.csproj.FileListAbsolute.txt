@@ -1,0 +1,15 @@
+C:\Users\chris\source\repos\BookBankAPI\BookBankLibrary\bin\Debug\net5.0\BookBankLibrary.deps.json
+C:\Users\chris\source\repos\BookBankAPI\BookBankLibrary\bin\Debug\net5.0\BookBankLibrary.runtimeconfig.json
+C:\Users\chris\source\repos\BookBankAPI\BookBankLibrary\bin\Debug\net5.0\BookBankLibrary.runtimeconfig.dev.json
+C:\Users\chris\source\repos\BookBankAPI\BookBankLibrary\bin\Debug\net5.0\BookBankLibrary.dll
+C:\Users\chris\source\repos\BookBankAPI\BookBankLibrary\bin\Debug\net5.0\ref\BookBankLibrary.dll
+C:\Users\chris\source\repos\BookBankAPI\BookBankLibrary\bin\Debug\net5.0\BookBankLibrary.pdb
+C:\Users\chris\source\repos\BookBankAPI\BookBankLibrary\obj\Debug\net5.0\BookBankLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\source\repos\BookBankAPI\BookBankLibrary\obj\Debug\net5.0\BookBankLibrary.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\BookBankAPI\BookBankLibrary\obj\Debug\net5.0\BookBankLibrary.AssemblyInfo.cs
+C:\Users\chris\source\repos\BookBankAPI\BookBankLibrary\obj\Debug\net5.0\BookBankLibrary.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\BookBankAPI\BookBankLibrary\obj\Debug\net5.0\BookBankLibrary.dll
+C:\Users\chris\source\repos\BookBankAPI\BookBankLibrary\obj\Debug\net5.0\ref\BookBankLibrary.dll
+C:\Users\chris\source\repos\BookBankAPI\BookBankLibrary\obj\Debug\net5.0\BookBankLibrary.pdb
+C:\Users\chris\source\repos\BookBankAPI\BookBankLibrary\obj\Debug\net5.0\BookBankLibrary.genruntimeconfig.cache
+C:\Users\chris\source\repos\BookBankAPI\BookBankLibrary\obj\Debug\net5.0\BookBankLibrary.csproj.AssemblyReference.cache

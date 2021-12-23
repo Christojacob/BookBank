@@ -1,0 +1,23 @@
+{
+  "region": "us-east-1",
+  "configuration": "Debug",
+  "framework": "net5.0",
+  "self-contained": false,
+  "application": "BookBankWebApiProject",
+  "environment": "BookBankWebApiProject-dev",
+  "enable-xray": false,
+  "enhanced-health-type": "basic",
+  "additional-options": "",
+  "solution-stack": "64bit Windows Server Core 2019 v2.8.0 running IIS 10.0",
+  "environment-type": "SingleInstance",
+  "cname": "bookbank-dev",
+  "instance-type": "t2.micro",
+  "key-pair": "keyPair4Lab3",
+  "instance-profile": "aws-elasticbeanstalk-ec2-role",
+  "service-role": "aws-elasticbeanstalk-service-role",
+  "proxy-server": "nginx",
+  "profile": "default",
+  "health-check-url": "/",
+  "iis-website": "Default Web Site",
+  "app-path": "/"
+}

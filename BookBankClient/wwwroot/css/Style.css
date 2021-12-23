@@ -1,0 +1,97 @@
+﻿.field-validation-valid {
+    display: none;
+}
+
+.input-validation-error {
+    border: 1px solid #f00;
+    background-color: #fee;
+}
+
+.field-validation-error {
+    color: #f00;
+}
+
+.validation-summary-errors {
+    font-weight: bold;
+    color: #f00;
+}
+
+.validation-summary-valid {
+    display: none;
+}
+
+.welcome-page-wrapper {
+    height: 100vh;
+    background-image: url(../images/covidProjectCover.jpg);
+    background-size: cover;
+    color: #fff;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.thankyou-page-wrapper {
+    height: 100vh;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.theme-btn, .theme-btn:focus, .theme-btn:active, .theme-btn:hover, .theme-btn:visited {
+    background-color: #f542aa;
+    border: 1px solid #f542aa;
+}
+
+.theme-header {
+    background-color: #f542aa !important;
+    color: #fff !important;
+}
+
+.thankyou-img {
+    width: 150px;
+}
+
+.theme_nav {
+    margin-bottom: 50px;
+    background-color: #f542aa;
+    color: #fff;
+}
+
+    .theme_nav a {
+        color: #fff !important;
+    }
+
+.navbar-nav {
+    flex-direction: row;
+}
+
+    .navbar-nav li {
+        padding: 0 20px
+    }
+.alert-danger:empty {
+    background: none !important;
+    border: none !important;
+}
+.searchform select{
+    width:100%;
+    height:40px;
+    line-height:40px;
+}
+.searchform button{
+    width:100%;
+}
+.card{
+    margin:30px 0;
+}
+.select2-container .select2-selection--single{
+    height:38px;
+    line-height:38px;
+}
+.select2-container--default .select2-selection--single .select2-selection__rendered{
+    line-height:38px;
+}
+.logo{
+    height:50px;
+}
